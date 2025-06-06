@@ -1,0 +1,42 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+a.out
+main
+test
+search_and_replace
+ft_*
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Editor files
+.vscode/
+.DS_Store
+*~
+*.swp
+*.swo
+
+# Test files
+test_*
+tmp_*
+
+# Personal notes (keep private)
+personal_notes.md
+
